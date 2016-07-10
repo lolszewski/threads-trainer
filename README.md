@@ -1,4 +1,4 @@
-This is my next project for learning java.
+This is my next project of learning java.
 
 In this example I wanted to check out how multithreading looks in java. 
 The idea is pretty simple in this approach - calculate given set of odd numbers and write them into files. 
